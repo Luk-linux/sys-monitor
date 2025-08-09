@@ -19,5 +19,5 @@ A simple Bash script that monitors system resources such as CPU usage, memory us
 1. Clone the repository:
    ```bash
       git clone https://github.com/Luk-linux/sys-monitor
-         cd sysmonitor
+         cd sys-monitor
 
